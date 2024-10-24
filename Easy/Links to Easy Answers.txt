@@ -1,5 +1,6 @@
 https://leetcode.com/problems/length-of-last-word/submissions/1220076712
 https://leetcode.com/problems/longest-common-prefix/submissions/1388656953
+https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/1432330571
 https://leetcode.com/problems/palindrome-number/submissions/1388643172
 https://leetcode.com/problems/pass-the-pillow/submissions/1311767087
 https://leetcode.com/problems/roman-to-integer/submissions/1225753622
