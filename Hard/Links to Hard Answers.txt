@@ -1,1 +1,2 @@
 https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1426231104
+https://leetcode.com/problems/self-crossing/submissions/1433215433
