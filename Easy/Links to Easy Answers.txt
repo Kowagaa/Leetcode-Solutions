@@ -1,3 +1,4 @@
+https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1434432463
 https://leetcode.com/problems/length-of-last-word/submissions/1220076712
 https://leetcode.com/problems/longest-common-prefix/submissions/1388656953
 https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/1432330571
