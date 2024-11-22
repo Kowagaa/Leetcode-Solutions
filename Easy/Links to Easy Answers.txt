@@ -7,6 +7,7 @@ https://leetcode.com/problems/pass-the-pillow/submissions/1311767087
 https://leetcode.com/problems/roman-to-integer/submissions/1225753622
 https://leetcode.com/problems/running-sum-of-1d-array/submissions/1429239985
 https://leetcode.com/problems/search-insert-position/submissions/1445739719
+https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/1447718064
 https://leetcode.com/problems/two-sum/submissions/1250756689
 https://leetcode.com/problems/valid-palindrome/submissions/1431236122
 https://leetcode.com/problems/valid-parentheses/submissions/1391912935
